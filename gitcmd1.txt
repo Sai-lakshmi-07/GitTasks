@@ -1,0 +1,2 @@
+to set username:
+   git config --global user.name "XYZ"
