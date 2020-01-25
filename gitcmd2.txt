@@ -1,0 +1,4 @@
+git init
+
+to list the details
+	git config --list
